@@ -1,3 +1,3 @@
+<img center src="img/index_mobile.jpeg" width="300">Mobile <br> <br>
+<img src="img/index_desktop.png" >Desktop
 
-<img src="img/index_desktop.png">Desktop<br>
-<img center src="img/index_mobile.jpeg">Mobile
